@@ -1,4 +1,4 @@
-# 🎬📚 Continuous Humanized Recommendation
+# 🎬📚  Recommendation system
 
 # Predefined recommendations for books and movies by genre
 recommendations = {
